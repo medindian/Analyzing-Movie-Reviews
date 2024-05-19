@@ -1,0 +1,1 @@
+for the complete dataset, it can be downloaded at: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
